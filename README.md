@@ -16,29 +16,24 @@ I'm looking for new freelance missions so feel free to reach out on [Linkedin](h
 
 ## Technical writing (samples of stuff I wrote for others)
 
--   #### CGWire (animation production tracker)
+- CGWire (animation production tracker)
     -   [Getting Started with Blender Rendering](https://blog.cg-wire.com/getting-started-with-blender-rendering/)
     -   [Character Design in Animation](https://blog.cg-wire.com/character-design-animation/)
     -   [Animation Post-Production](https://blog.cg-wire.com/animation-post-production-definition-process-overview/)
--   #### Onboardbase (devsecops)
-
+- Onboardbase (devsecops)
     -   [Introducing Secure Share: A CLI to Share Dev Secrets with Teammates](https://onboardbase.com/blog/secure-share/)
     -   [How ChatGPT Reinvents Cybersecurity: Features & Prompt Examples](https://onboardbase.com/blog/chatgpt-reinvents-cybersecurity/)
     -   [AES Encryption & Decryption In Python: Implementation, Modes & Key Management](https://onboardbase.com/blog/aes-encryption-decryption/)
--   #### Rowy (low-code backend SaaS)
-
+- Rowy (low-code backend SaaS)
     -   [How To Use The Notion API For A Low-Code CMS In 5 Minutes](https://www.rowy.io/blog/notion-api)
     -   [Automate Onboarding For New Hires](https://www.rowy.io/blog/automate-onboarding)
     -   [How To Create A Telegram Bot, The Low-Code Way](https://www.rowy.io/blog/create-telegram-bot)
--   #### Napkin (hosted serverless functions)
-
+- Napkin (hosted serverless functions)
     -   [How To Create A Bot For Slack In Python](https://www.napkin.io/blog/how-to-make-slack-bot-reminder-9-steps)
--   #### June (startup analytics)
-
+- June (startup analytics)
     -   [User Retention Analysis: Meaning, Models & Reporting On Customer Cohort Retention](https://www.june.so/blog/user-retention-analysis-meaning-models-reporting-on-customer-cohort-retention)
     -   [User Acquisition Strategy 101: Models, Funnel & Examples](https://www.june.so/blog/user-acquisition-strategy-101-models-funnel-examples)
     -   [Backlog Grooming: The 2022 Checklist](https://www.june.so/blog/backlog-grooming-the-2022-checklist)
--   #### Embarque (productized SEO agency)
-
+- Embarque (productized SEO agency)
     -   [SEO Content Localization](https://www.embarque.io/post/content-localization)
     -   [SEO Content Planning: How We Plan High-Quality Content For Our Customers](https://www.embarque.io/post/content-planning)
