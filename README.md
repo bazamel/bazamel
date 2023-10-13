@@ -4,9 +4,9 @@ I'm looking for new freelance missions so feel free to reach out on [Linkedin](h
 
 ## Testimonials
 
--   **Harini Janakiraman** (CEO at Rowy ($3M seed): We multiplied our SEO traffic by 10, with Basile consistently publishing 3 technical articles per week for 4 months now.)
--   **Frank Rousseau** (CEO at CGWire ($400k ARR): Basile took up a new topic (animation industry) and devised a content strategy to get us to the top of our niche over the next year. He's a great writer. Super independent and a pleasure to work with.)
--   **Dante Lex** (CEO at Onboardbase ($230k pre-seed): We went from 0 to 2,300 monthly organic visitors in a year with SEO, starting from nothing, despite highly technical, niche topics.)
+-   **Harini Janakiraman** - CEO at Rowy ($3M seed): *We multiplied our SEO traffic by 10, with Basile consistently publishing 3 technical articles per week for 4 months now.*
+-   **Frank Rousseau** - CEO at CGWire ($400k ARR): *Basile took up a new topic (animation industry) and devised a content strategy to get us to the top of our niche over the next year. He's a great writer. Super independent and a pleasure to work with.*
+-   **Dante Lex** - CEO at Onboardbase ($230k pre-seed): *We went from 0 to 2,300 monthly organic visitors in a year with SEO, starting from nothing, despite highly technical, niche topics.*
 
 ## Apps & websites
 
